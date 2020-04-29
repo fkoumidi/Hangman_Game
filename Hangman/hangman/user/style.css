@@ -1,0 +1,85 @@
+body {
+			
+			background-image: url('the-Hangman-logo.png');
+			background-repeat: no-repeat;
+			background-position: center center; 
+			background-size:90% 90%;
+			background-color:#3399ff;
+		    background-attachment: fixed;
+			
+		
+			
+			}
+			
+			
+			a {
+			  color: #330000;
+				}
+				
+		.part1{
+			
+			position:fixed;
+			left: 15%;
+			top:30%;
+			font-size:1.3em;
+			width:50%;
+		}
+		
+		
+			
+		.part2{
+			
+			position: fixed;
+			left: 12%;
+			top:30%;
+			font-size:1.5em;
+			width:60%;
+			
+		}
+		
+		.game{
+			max-width:40%;
+			position: fixed;
+		    left: 35%;
+			top:43%;
+			font-size:1.7em;
+			width:40%;
+		}
+		
+		.image{
+			max-width:25%;
+			position: fixed;
+			left: 6%;
+			top:35%;
+			width :250%;
+			font-size:1.7em;
+			
+		}
+		
+		.xronos{
+				
+				
+			max-width:40%;
+			position: fixed;
+		    left: 34%;
+			top:40%;
+			font-size:1.7em;
+			width:35%;
+			font-weight: bolder;
+			color:#80ffaa;
+				  
+				  
+				  
+				  
+				  
+}
+		
+		
+		.but {
+				    width: 2.5em; 
+				    height:2.5em;
+				    background-color:#ff3333;
+				    font-weight: bolder;
+		}
+		
+		

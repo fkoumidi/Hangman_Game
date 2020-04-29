@@ -1,0 +1,9 @@
+<html>
+	<script>  //ελεγχος αν κερδηθηκε το bonus
+		var check=sessionStorage.getItem("timerKey");
+		if (check>0)
+			{window.location="won_game2.php";}
+		else
+			{window.location="won_game.php";}
+	</script>
+</html>

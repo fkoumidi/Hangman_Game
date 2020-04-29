@@ -1,0 +1,36 @@
+	body {
+			
+			background-color: #66a3ff;
+			background-size:cover;
+			text-align:center;
+
+			}
+			
+			
+		.admincss {
+			  
+				text-align:center;
+				font-size: 50px;
+				
+				font-style: italic;
+				bottom:250px;
+				left:250px;
+				position:absolute;
+			  
+				}
+				
+		.button {
+				    width: 5em; 
+				    height: 2em;
+				    font-size: 30px;
+				    background-color:#FFFF99;
+				    
+				}	
+		
+		.table {
+			
+				bottom:450px;
+				left:450px;
+				position:absolute;	
+				text-align:center;
+				}
